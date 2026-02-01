@@ -27,4 +27,3 @@ C:\Users\Mikhail\Desktop\git\ASP.NET\WebApplication1\WebApplication1\obj\Debug\n
 C:\Users\Mikhail\Desktop\git\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net10.0\WebApplication1.pdb
 C:\Users\Mikhail\Desktop\git\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net10.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Mikhail\Desktop\git\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net10.0\ref\WebApplication1.dll
-C:\Users\Mikhail\Desktop\git\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
